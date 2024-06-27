@@ -43,8 +43,6 @@
 
 <img align="left" height="84" width="84" src="https://github.com/GabrielLima1227/GabrielLima1227/assets/130858293/2ae4a8f5-ab38-430a-b32c-43e0528b6945">
 
-<img align="left"  height="80" width="80" src="https://github.com/GabrielLima1227/GabrielLima1227/assets/130858293/fa3b8137-ca1d-4213-af0f-8b32793ff095">
-
 <img align="left"  height="80" width="80" src="https://github.com/GabrielLima1227/GabrielLima1227/assets/130858293/d0e64c76-1db2-4eae-a0f4-b3867336b2a3">
 
 </div>
@@ -66,8 +64,6 @@
 <img align="left" height="80" width="80" src="https://github.com/GabrielLima1227/GabrielLima1227/assets/130858293/3ef1b4f1-bc28-48bc-b42a-c9acfac89ae2">
 
 <img align="left" height="84" width="84" src="https://github.com/GabrielLima1227/GabrielLima1227/assets/130858293/2ae4a8f5-ab38-430a-b32c-43e0528b6945">
-
-<img align="left"  height="80" width="80" src="https://github.com/GabrielLima1227/GabrielLima1227/assets/130858293/fa3b8137-ca1d-4213-af0f-8b32793ff095">
 
 <img align="left"  height="80" width="80" src="https://github.com/GabrielLima1227/GabrielLima1227/assets/130858293/d0e64c76-1db2-4eae-a0f4-b3867336b2a3">
 
