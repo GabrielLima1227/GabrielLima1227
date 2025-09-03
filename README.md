@@ -52,7 +52,8 @@
 
 <div align="center" style="display: inline_block">
    
-  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,py,vercel,git,github)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,py)](https://skillicons.dev) <br>
+  [![My Skills](https://skillicons.dev/icons?i=vercel,git,github)](https://skillicons.dev)
 
 </div>
 
