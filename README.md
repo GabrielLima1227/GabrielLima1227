@@ -52,8 +52,11 @@
 
 <div align="center" style="display: inline_block">
    
-  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,vite)](https://skillicons.dev) <br>
-  [![My Skills](https://skillicons.dev/icons?i=docker,postgres,py,vercel,linux,git,github)](https://skillicons.dev)
+[![Front-end Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,vite)](https://skillicons.dev)
+
+[![Back-end Skills](https://skillicons.dev/icons?i=py,postgres,prisma)](https://skillicons.dev)
+
+[![Infra Skills](https://skillicons.dev/icons?i=docker,kubernetes,linux,vercel,git)](https://skillicons.dev)
 
 </div>
 
